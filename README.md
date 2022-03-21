@@ -1,7 +1,7 @@
 # GotitUpdater
 
 ## Current progress
-- [ ] Download module
+- [x] Download module (bug fixing)
 - [ ] Config process module
 - [ ] GUI module
 
